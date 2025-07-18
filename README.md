@@ -33,7 +33,7 @@ An interactive web tool for analyzing debates for logical fallacies, building an
   4. Save, load, or export your arguments as needed.
 
 ## Live Demo
-[View here](https://your-demo-link)
+[View here](https://leemoradi.github.io/debate-analyzer-and-argument-helper/)
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
