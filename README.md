@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://leemoradi.github.io/debate-analyzer-and-argument-helper/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 # Debate Analyzer & Argument Helper
 
 An interactive web tool for analyzing debates for logical fallacies, building and checking arguments, and learning about logic. Perfect for students, debaters, and anyone interested in critical thinking or philosophy.
